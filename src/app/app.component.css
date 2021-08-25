@@ -1,0 +1,25 @@
+.carousel-inner img {
+    width: 100%;
+    height: 600px;
+  }
+  #slider
+  {
+      height:100%;
+      width: 100%;
+  }
+  #maindiv{
+      height: 100%;
+      width: 100%;
+      background-color:bisque;
+  }
+  #div1
+  {
+      height: 10%;
+      width: 10%;
+      background-color: red;
+
+  }
+  #div2
+  {
+
+  }
